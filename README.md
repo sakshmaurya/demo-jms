@@ -32,7 +32,6 @@ JavaScript – Interactivity
 project/
 │── index.html        # Main page
 │── style.css         # Styling
-│── script.js         # Interactions
 │── images/           # Food images/assets
 │── README.md         # Documentation
 ⚙️ How to Run Locally
